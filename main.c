@@ -3,6 +3,6 @@
 int main()
 {
 
-
+	printf("hellowrod!\n");
 	return 0;
 }
